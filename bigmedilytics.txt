@@ -14,4 +14,4 @@ keywords:
 license: GNU General Public License v3.0
 version: v2.0
 repositoryURL: https://github.com/tibonto/bigmedilytics
-releaseURL: https://github.com/tibonto/bigmedilytics/releases/tag/v2.0
+releaseURL: https://github.com/tibonto/bigmedilytics/releases/tag/R2.0
